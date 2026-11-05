@@ -6,9 +6,11 @@ name: Update market data
 # The same run drives the Ventryx auto-trader (scripts/trade_bot.py), which does
 # nothing until Alpaca keys are added as repository secrets. The extra :42/:52
 # runs give it more chances to flatten positions before the 16:00 New York close.
+# Runs sit at :04/:19/:34/:49 rather than on the quarter-hour, when GitHub's
+# scheduler is busiest and most likely to delay or skip a run.
 on:
   schedule:
-    - cron: "*/15 13-20 * * 1-5"
+    - cron: "4,19,34,49 13-20 * * 1-5"
     - cron: "42,52 19,20 * * 1-5"
     - cron: "40 21 * * 1-5"
     # crypto trades every day: refresh at weekends too, and just after each month-end close (00:00 UTC)
