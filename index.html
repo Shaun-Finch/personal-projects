@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Personal projects — Shaun Finch</title>
+<meta name="description" content="Shaun Finch's personal projects: Ventryx, a live market scanner, and Xovern, an AI security dashboard. Work in progress.">
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;800&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{--bg:#0E0E10;--surface:#161618;--ink:#ECECEE;--mute:#A3A3AA;--line:#2A2A2E;--accent:#F0562A;color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Figtree",system-ui,sans-serif;line-height:1.6}
+.wrap{width:min(60rem,100%);margin-inline:auto;padding:clamp(2rem,6vw,4.5rem) clamp(1.1rem,4vw,3rem)}
+h1{font-weight:800;font-size:clamp(2.2rem,6vw,3.6rem);letter-spacing:-.04em;line-height:1;margin:0 0 .8rem}
+.lede{color:var(--mute);margin:0 0 2.2rem;max-width:46ch}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(18rem,100%),1fr));gap:1.2rem}
+a.card{display:block;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--line);padding:1.4rem 1.5rem}
+a.card:hover,a.card:focus-visible{border-color:var(--accent)}
+:focus-visible{outline:3px solid #A29DFF;outline-offset:3px}
+.card b{display:block;font-size:1.5rem;letter-spacing:-.03em;margin-bottom:.3rem}
+.card span{color:var(--mute);font-size:.95rem}
+.card i{display:block;font-style:normal;font-family:"JetBrains Mono",monospace;font-size:.75rem;color:var(--accent);margin-top:.9rem;letter-spacing:.06em;text-transform:uppercase}
+.foot{margin-top:2.5rem;font-size:.85rem;color:var(--mute)}
+.foot a{color:var(--ink)}
+</style>
+</head>
+<body>
+<main class="wrap">
+  <h1>Personal projects</h1>
+  <p class="lede">Side projects by Shaun Finch, kept separate from the design portfolio. Both are works in progress.</p>
+  <div class="grid">
+    <a class="card" href="ventryx.html"><b>Ventryx</b><span>A live market scanner: opening-bell breakouts, long-term ideas, backtests and a weekly news video. Ideas only, never advice.</span><i>Open Ventryx &rarr;</i></a>
+    <a class="card" href="xovern.html"><b>Xovern</b><span>A security platform for companies building with AI: sanctions screening, a prompt-injection firewall, tampered-code and leaked-key checks, and passkey sign-up.</span><i>Open Xovern &rarr;</i></a>
+  </div>
+  <p class="foot">Design portfolio: <a href="https://shaun-finch.github.io/Design/">shaun-finch.github.io/Design</a></p>
+</main>
+</body>
+</html>
