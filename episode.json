@@ -1,0 +1,478 @@
+{
+ "weekEnding": "2026-11-06",
+ "published": "2026-11-08T15:03Z",
+ "writer": "template",
+ "strip": "Weekly round-up · week ending Friday 6 November",
+ "clock": "SUN 08 NOV · 15:03 UTC",
+ "ticker": [
+  {
+   "t": "S&P 500",
+   "pct": -2.7
+  },
+  {
+   "t": "NASDAQ",
+   "pct": -4.9
+  },
+  {
+   "t": "Dow Jones",
+   "pct": -0.9
+  },
+  {
+   "t": "FTSE 100",
+   "pct": -0.5
+  },
+  {
+   "t": "Bitcoin",
+   "pct": -3.0
+  },
+  {
+   "t": "ABNB",
+   "pct": 15.6
+  },
+  {
+   "t": "FSLR",
+   "pct": 15.3
+  },
+  {
+   "t": "BKNG",
+   "pct": 8.5
+  },
+  {
+   "t": "MRVL",
+   "pct": -28.1
+  },
+  {
+   "t": "DDOG",
+   "pct": -23.9
+  },
+  {
+   "t": "DELL",
+   "pct": -22.6
+  }
+ ],
+ "facts": {
+  "weekEnding": "2026-11-06",
+  "indices": [
+   {
+    "name": "S&P 500",
+    "sym": "^GSPC",
+    "pct": -2.7,
+    "last": 7376.86
+   },
+   {
+    "name": "Nasdaq 100",
+    "sym": "^NDX",
+    "pct": -4.9,
+    "last": 26989.99
+   },
+   {
+    "name": "Dow Jones",
+    "sym": "^DJI",
+    "pct": -0.9,
+    "last": 51285.73
+   },
+   {
+    "name": "FTSE 100",
+    "sym": "^FTSE",
+    "pct": -0.5,
+    "last": 10673.9
+   },
+   {
+    "name": "Bitcoin",
+    "sym": "BTC-USD",
+    "pct": -3.0,
+    "last": 75938.48
+   }
+  ],
+  "risers": [
+   {
+    "t": "ABNB",
+    "pct": 15.6,
+    "name": "Airbnb"
+   },
+   {
+    "t": "FSLR",
+    "pct": 15.3,
+    "name": "First Solar"
+   },
+   {
+    "t": "BKNG",
+    "pct": 8.5,
+    "name": "Booking Holdings Inc. Common St"
+   }
+  ],
+  "fallers": [
+   {
+    "t": "MRVL",
+    "pct": -28.1,
+    "name": "Marvell Technology"
+   },
+   {
+    "t": "DDOG",
+    "pct": -23.9,
+    "name": "Datadog"
+   },
+   {
+    "t": "DELL",
+    "pct": -22.6,
+    "name": "Dell"
+   }
+  ],
+  "headlines": [
+   {
+    "t": "ABNB",
+    "name": "Airbnb",
+    "pct": 15.6,
+    "title": "Airbnb: 3 Key Takeaways for Long-Term Investors",
+    "src": "Motley Fool"
+   },
+   {
+    "t": "MRVL",
+    "name": "Marvell Technology",
+    "pct": -28.1,
+    "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now.",
+    "src": "Motley Fool"
+   }
+  ],
+  "momentum": {
+   "holdings": [
+    "MU",
+    "DELL",
+    "MRVL",
+    "INTC",
+    "AMD"
+   ],
+   "invested": true,
+   "names": [
+    "Micron Technology",
+    "Dell",
+    "Marvell Technology",
+    "Intel",
+    "Advanced Micro Devices"
+   ],
+   "nextSwap": "2026-11-30",
+   "leaving": [],
+   "joining": []
+  },
+  "crypto": {
+   "holdings": [
+    "NEAR",
+    "ZEC",
+    "ARB",
+    "UNI",
+    "XMR"
+   ],
+   "invested": true,
+   "names": [
+    "NEAR Protocol",
+    "Zcash",
+    "Arbitrum",
+    "Uniswap",
+    "Monero"
+   ],
+   "btcVs200dayPct": 3.7,
+   "nextSwap": "2026-11-30"
+  },
+  "earningsNextWeek": [
+   {
+    "t": "BRK-B",
+    "name": "Berkshire Hathaway Inc. New",
+    "date": "2026-11-09"
+   },
+   {
+    "t": "CSCO",
+    "name": "Cisco Systems, Inc.",
+    "date": "2026-11-12"
+   },
+   {
+    "t": "AMAT",
+    "name": "Applied Materials, Inc.",
+    "date": "2026-11-12"
+   }
+  ],
+  "predictionMarkets": [
+   {
+    "title": "What price will Bitcoin hit November 2-8?",
+    "odds": [
+     {
+      "label": "↓ 74,000",
+      "q": "Will Bitcoin dip to $74,000 November 2-8?",
+      "yes": 7.8,
+      "outcome": "Yes"
+     },
+     {
+      "label": "↑ 78,000",
+      "q": "Will Bitcoin reach $78,000 November 2-8?",
+      "yes": 6.5,
+      "outcome": "Yes"
+     }
+    ]
+   },
+   {
+    "title": "Puffpaw FDV above ___ one day after launch?",
+    "odds": [
+     {
+      "label": "$300M",
+      "q": "Puffpaw FDV above $300M one day after launch?",
+      "yes": 94.8,
+      "outcome": "Yes"
+     },
+     {
+      "label": "$50M",
+      "q": "Puffpaw FDV above $50M one day after launch?",
+      "yes": 95.0,
+      "outcome": "Yes"
+     }
+    ]
+   }
+  ],
+  "nextWeek": {
+   "from": "2026-11-09",
+   "to": "2026-11-13"
+  }
+ },
+ "segments": [
+  {
+   "id": "intro",
+   "title": "Weekly round-up",
+   "tag": "WEEKLY",
+   "bar": "Your two-minute market round-up",
+   "text": "Hello, I'm Nova, the Ventryx AI presenter. This is your weekly market round-up for the week ending Friday 6 November.",
+   "graphic": {
+    "type": "intro",
+    "big": "Weekly round-up",
+    "sub": "Week ending Friday 6 November"
+   },
+   "start": 0.0,
+   "end": 8.55
+  },
+  {
+   "id": "markets",
+   "title": "Markets this week",
+   "tag": "WEEKLY",
+   "bar": "Stocks lower on the week",
+   "text": "Here's how the markets closed the week. The S&P 500 finished down 2.7 per cent. The tech-heavy Nasdaq 100 was down 4.9 per cent, and here in London the FTSE 100 ended down 0.5 per cent. Bitcoin was down 3.0 per cent over seven days.",
+   "graphic": {
+    "type": "indices",
+    "rows": [
+     {
+      "name": "S&P 500",
+      "sym": "^GSPC",
+      "pct": -2.7,
+      "last": 7376.86
+     },
+     {
+      "name": "Nasdaq 100",
+      "sym": "^NDX",
+      "pct": -4.9,
+      "last": 26989.99
+     },
+     {
+      "name": "Dow Jones",
+      "sym": "^DJI",
+      "pct": -0.9,
+      "last": 51285.73
+     },
+     {
+      "name": "FTSE 100",
+      "sym": "^FTSE",
+      "pct": -0.5,
+      "last": 10673.9
+     },
+     {
+      "name": "Bitcoin",
+      "sym": "BTC-USD",
+      "pct": -3.0,
+      "last": 75938.48
+     }
+    ]
+   },
+   "start": 9.0,
+   "end": 26.7
+  },
+  {
+   "id": "movers",
+   "title": "Biggest movers",
+   "tag": "STOCKS",
+   "bar": "Airbnb leads, Marvell Technology lags",
+   "text": "Among the hundred big US stocks we track, the top riser was Airbnb, up 15.6 per cent, followed by First Solar and Booking Holdings Inc. Common St. At the other end, Marvell Technology fell 28.1 per cent, with Datadog and Dell also lower.",
+   "graphic": {
+    "type": "movers",
+    "up": [
+     {
+      "t": "ABNB",
+      "pct": 15.6,
+      "name": "Airbnb"
+     },
+     {
+      "t": "FSLR",
+      "pct": 15.3,
+      "name": "First Solar"
+     },
+     {
+      "t": "BKNG",
+      "pct": 8.5,
+      "name": "Booking Holdings Inc. Common St"
+     }
+    ],
+    "down": [
+     {
+      "t": "MRVL",
+      "pct": -28.1,
+      "name": "Marvell Technology"
+     },
+     {
+      "t": "DDOG",
+      "pct": -23.9,
+      "name": "Datadog"
+     },
+     {
+      "t": "DELL",
+      "pct": -22.6,
+      "name": "Dell"
+     }
+    ]
+   },
+   "start": 27.15,
+   "end": 43.55
+  },
+  {
+   "id": "news_ABNB",
+   "title": "In the headlines",
+   "tag": "NEWS",
+   "bar": "Airbnb up 15.6%",
+   "text": "In the news on Airbnb, Motley Fool ran the headline: Airbnb: 3 Key Takeaways for Long-Term Investors.",
+   "graphic": {
+    "type": "headline",
+    "t": "ABNB",
+    "pct": 15.6,
+    "title": "Airbnb: 3 Key Takeaways for Long-Term Investors",
+    "src": "Motley Fool"
+   },
+   "start": 44.0,
+   "end": 50.975
+  },
+  {
+   "id": "news_MRVL",
+   "title": "In the headlines",
+   "tag": "NEWS",
+   "bar": "Marvell Technology down 28.1%",
+   "text": "In the news on Marvell Technology, Motley Fool ran the headline: Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now..",
+   "graphic": {
+    "type": "headline",
+    "t": "MRVL",
+    "pct": -28.1,
+    "title": "Intel, Arm, and Marvell Have Each Been Cut in Half Since June. Only 1 Is a Stock I'd Buy Now.",
+    "src": "Motley Fool"
+   },
+   "start": 51.425,
+   "end": 61.425
+  },
+  {
+   "id": "momentum",
+   "title": "Momentum top 5",
+   "tag": "VENTRYX",
+   "bar": "The monthly top 5",
+   "text": "On the Ventryx momentum list, this month's five are Micron Technology, Dell, Marvell Technology, Intel and Advanced Micro Devices. All five are holding their places for now. The next swap is on Monday 30 November.",
+   "graphic": {
+    "type": "picks",
+    "lead": "This month's holdings",
+    "items": [
+     {
+      "t": "MU"
+     },
+     {
+      "t": "DELL"
+     },
+     {
+      "t": "MRVL"
+     },
+     {
+      "t": "INTC"
+     },
+     {
+      "t": "AMD"
+     }
+    ],
+    "note": "Next swap: Mon 30 Nov"
+   },
+   "start": 61.875,
+   "end": 75.525
+  },
+  {
+   "id": "crypto",
+   "title": "Crypto top 5",
+   "tag": "CRYPTO",
+   "bar": "Experimental: high risk",
+   "text": "In crypto, our experimental top five are NEAR Protocol, Zcash, Arbitrum, Uniswap and Monero, with Bitcoin 4 per cent above its two-hundred-day average.",
+   "graphic": {
+    "type": "picks",
+    "lead": "Experimental crypto holdings",
+    "items": [
+     {
+      "t": "NEAR"
+     },
+     {
+      "t": "ZEC"
+     },
+     {
+      "t": "ARB"
+     },
+     {
+      "t": "UNI"
+     },
+     {
+      "t": "XMR"
+     }
+    ],
+    "note": "High risk: you could lose all the money you put in."
+   },
+   "start": 75.975,
+   "end": 86.7
+  },
+  {
+   "id": "outlook",
+   "title": "Next week",
+   "tag": "OUTLOOK",
+   "bar": "The week ahead: 9-13 November",
+   "text": "Looking ahead to the week of Monday 9 November. Results are due from Berkshire Hathaway Inc. New on Monday; Cisco Systems and Applied Materials on Thursday. And on the prediction market Polymarket, the question \"Will Bitcoin dip to $74,000 November 2-8?\" is trading at about 8 per cent yes. ",
+   "graphic": {
+    "type": "outlook",
+    "rows": [
+     {
+      "k": "Mon",
+      "v": "Berkshire Hathaway Inc. New"
+     },
+     {
+      "k": "Thu",
+      "v": "Cisco Systems, Applied Materials"
+     },
+     {
+      "k": "Odds",
+      "v": "Will Bitcoin dip to $74,000 November 2-8? 8% yes"
+     },
+     {
+      "k": "Swap",
+      "v": "Momentum swap: Mon 30 Nov"
+     }
+    ]
+   },
+   "start": 87.15,
+   "end": 105.6
+  },
+  {
+   "id": "outro",
+   "title": "That's the week",
+   "tag": "WEEKLY",
+   "bar": "Not financial advice",
+   "text": "That's your round-up. Remember, this is research, not financial advice. I'm Nova. See you next Sunday.",
+   "graphic": {
+    "type": "outro",
+    "big": "See you Sunday",
+    "sub": "Ventryx Weekly · not financial advice"
+   },
+   "start": 106.05,
+   "end": 112.3
+  }
+ ]
+}
