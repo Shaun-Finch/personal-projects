@@ -1,0 +1,460 @@
+{
+ "weekEnding": "2026-11-20",
+ "published": "2026-11-22T16:13Z",
+ "writer": "template",
+ "strip": "Weekly round-up · week ending Friday 20 November",
+ "clock": "SUN 22 NOV · 16:13 UTC",
+ "ticker": [
+  {
+   "t": "S&P 500",
+   "pct": -8.6
+  },
+  {
+   "t": "NASDAQ",
+   "pct": -10.4
+  },
+  {
+   "t": "Dow Jones",
+   "pct": -8.0
+  },
+  {
+   "t": "FTSE 100",
+   "pct": -5.1
+  },
+  {
+   "t": "Bitcoin",
+   "pct": -6.7
+  },
+  {
+   "t": "PANW",
+   "pct": 6.5
+  },
+  {
+   "t": "TGT",
+   "pct": 2.7
+  },
+  {
+   "t": "CRWD",
+   "pct": 1.2
+  },
+  {
+   "t": "MU",
+   "pct": -23.6
+  },
+  {
+   "t": "NVDA",
+   "pct": -22.9
+  },
+  {
+   "t": "MRVL",
+   "pct": -22.0
+  }
+ ],
+ "facts": {
+  "weekEnding": "2026-11-20",
+  "indices": [
+   {
+    "name": "S&P 500",
+    "sym": "^GSPC",
+    "pct": -8.6,
+    "last": 6910.39
+   },
+   {
+    "name": "Nasdaq 100",
+    "sym": "^NDX",
+    "pct": -10.4,
+    "last": 25028.98
+   },
+   {
+    "name": "Dow Jones",
+    "sym": "^DJI",
+    "pct": -8.0,
+    "last": 48147.33
+   },
+   {
+    "name": "FTSE 100",
+    "sym": "^FTSE",
+    "pct": -5.1,
+    "last": 10346.3
+   },
+   {
+    "name": "Bitcoin",
+    "sym": "BTC-USD",
+    "pct": -6.7,
+    "last": 60947.99
+   }
+  ],
+  "risers": [
+   {
+    "t": "PANW",
+    "pct": 6.5,
+    "name": "Palo Alto Networks"
+   },
+   {
+    "t": "TGT",
+    "pct": 2.7,
+    "name": "Target"
+   },
+   {
+    "t": "CRWD",
+    "pct": 1.2,
+    "name": "CrowdStrike"
+   }
+  ],
+  "fallers": [
+   {
+    "t": "MU",
+    "pct": -23.6,
+    "name": "Micron Technology"
+   },
+   {
+    "t": "NVDA",
+    "pct": -22.9,
+    "name": "NVIDIA"
+   },
+   {
+    "t": "MRVL",
+    "pct": -22.0,
+    "name": "Marvell Technology"
+   }
+  ],
+  "headlines": [
+   {
+    "t": "PANW",
+    "name": "Palo Alto Networks",
+    "pct": 6.5,
+    "title": "CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies",
+    "src": "Stocktwits"
+   },
+   {
+    "t": "MU",
+    "name": "Micron Technology",
+    "pct": -23.6,
+    "title": "Micron Stock Just Hit Its Lowest Price Since May. I'd Buy More Now.",
+    "src": "Motley Fool"
+   }
+  ],
+  "momentum": {
+   "holdings": [
+    "MU",
+    "DELL",
+    "MRVL",
+    "INTC",
+    "AMD"
+   ],
+   "invested": true,
+   "names": [
+    "Micron Technology",
+    "Dell",
+    "Marvell Technology",
+    "Intel",
+    "Advanced Micro Devices"
+   ],
+   "nextSwap": "2026-11-30",
+   "leaving": [
+    "MU",
+    "DELL",
+    "MRVL",
+    "INTC",
+    "AMD"
+   ],
+   "joining": []
+  },
+  "crypto": {
+   "holdings": [
+    "NEAR",
+    "ZEC",
+    "ARB",
+    "UNI",
+    "XMR"
+   ],
+   "invested": true,
+   "names": [
+    "NEAR Protocol",
+    "Zcash",
+    "Arbitrum",
+    "Uniswap",
+    "Monero"
+   ],
+   "btcVs200dayPct": -18.4,
+   "nextSwap": "2026-11-30"
+  },
+  "earningsNextWeek": [],
+  "predictionMarkets": [
+   {
+    "title": "What price will Bitcoin hit in November?",
+    "odds": [
+     {
+      "label": "↑ 62,500",
+      "q": "Will Bitcoin reach $62,500 in November?",
+      "yes": 52.5,
+      "outcome": "Yes"
+     },
+     {
+      "label": "↓ 55,000",
+      "q": "Will Bitcoin dip to $55,000 in November?",
+      "yes": 43.6,
+      "outcome": "Yes"
+     }
+    ]
+   },
+   {
+    "title": "What price will Bitcoin hit in 2026?",
+    "odds": [
+     {
+      "label": "↓ 50,000",
+      "q": "Will Bitcoin dip to $50,000 by December 31, 2026?",
+      "yes": 39.6,
+      "outcome": "Yes"
+     },
+     {
+      "label": "↓ 55,000",
+      "q": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "yes": 67.5,
+      "outcome": "Yes"
+     }
+    ]
+   }
+  ],
+  "nextWeek": {
+   "from": "2026-11-23",
+   "to": "2026-11-27"
+  }
+ },
+ "segments": [
+  {
+   "id": "intro",
+   "title": "Weekly round-up",
+   "tag": "WEEKLY",
+   "bar": "Your two-minute market round-up",
+   "text": "Hello, I'm Nova, the Ventryx AI presenter. This is your weekly market round-up for the week ending Friday 20 November.",
+   "graphic": {
+    "type": "intro",
+    "big": "Weekly round-up",
+    "sub": "Week ending Friday 20 November"
+   },
+   "start": 0.0,
+   "end": 8.525
+  },
+  {
+   "id": "markets",
+   "title": "Markets this week",
+   "tag": "WEEKLY",
+   "bar": "Stocks lower on the week",
+   "text": "Here's how the markets closed the week. The S&P 500 finished down 8.6 per cent. The tech-heavy Nasdaq 100 was down 10.4 per cent, and here in London the FTSE 100 ended down 5.1 per cent. Bitcoin was down 6.7 per cent over seven days.",
+   "graphic": {
+    "type": "indices",
+    "rows": [
+     {
+      "name": "S&P 500",
+      "sym": "^GSPC",
+      "pct": -8.6,
+      "last": 6910.39
+     },
+     {
+      "name": "Nasdaq 100",
+      "sym": "^NDX",
+      "pct": -10.4,
+      "last": 25028.98
+     },
+     {
+      "name": "Dow Jones",
+      "sym": "^DJI",
+      "pct": -8.0,
+      "last": 48147.33
+     },
+     {
+      "name": "FTSE 100",
+      "sym": "^FTSE",
+      "pct": -5.1,
+      "last": 10346.3
+     },
+     {
+      "name": "Bitcoin",
+      "sym": "BTC-USD",
+      "pct": -6.7,
+      "last": 60947.99
+     }
+    ]
+   },
+   "start": 8.975,
+   "end": 26.925
+  },
+  {
+   "id": "movers",
+   "title": "Biggest movers",
+   "tag": "STOCKS",
+   "bar": "Palo Alto Networks leads, Micron Technology lags",
+   "text": "Among the hundred big US stocks we track, the top riser was Palo Alto Networks, up 6.5 per cent, followed by Target and CrowdStrike. At the other end, Micron Technology fell 23.6 per cent, with NVIDIA and Marvell Technology also lower.",
+   "graphic": {
+    "type": "movers",
+    "up": [
+     {
+      "t": "PANW",
+      "pct": 6.5,
+      "name": "Palo Alto Networks"
+     },
+     {
+      "t": "TGT",
+      "pct": 2.7,
+      "name": "Target"
+     },
+     {
+      "t": "CRWD",
+      "pct": 1.2,
+      "name": "CrowdStrike"
+     }
+    ],
+    "down": [
+     {
+      "t": "MU",
+      "pct": -23.6,
+      "name": "Micron Technology"
+     },
+     {
+      "t": "NVDA",
+      "pct": -22.9,
+      "name": "NVIDIA"
+     },
+     {
+      "t": "MRVL",
+      "pct": -22.0,
+      "name": "Marvell Technology"
+     }
+    ]
+   },
+   "start": 27.375,
+   "end": 44.025
+  },
+  {
+   "id": "news_PANW",
+   "title": "In the headlines",
+   "tag": "NEWS",
+   "bar": "Palo Alto Networks up 6.5%",
+   "text": "In the news on Palo Alto Networks, Stocktwits ran the headline: CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies.",
+   "graphic": {
+    "type": "headline",
+    "t": "PANW",
+    "pct": 6.5,
+    "title": "CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival ‘More Formidable’ Against Palo Alto Networks, Says Jefferies",
+    "src": "Stocktwits"
+   },
+   "start": 44.475,
+   "end": 56.125
+  },
+  {
+   "id": "news_MU",
+   "title": "In the headlines",
+   "tag": "NEWS",
+   "bar": "Micron Technology down 23.6%",
+   "text": "In the news on Micron Technology, Motley Fool ran the headline: Micron Stock Just Hit Its Lowest Price Since May. I'd Buy More Now..",
+   "graphic": {
+    "type": "headline",
+    "t": "MU",
+    "pct": -23.6,
+    "title": "Micron Stock Just Hit Its Lowest Price Since May. I'd Buy More Now.",
+    "src": "Motley Fool"
+   },
+   "start": 56.575,
+   "end": 64.9
+  },
+  {
+   "id": "momentum",
+   "title": "Momentum top 5",
+   "tag": "VENTRYX",
+   "bar": "The monthly top 5",
+   "text": "On the Ventryx momentum list, this month's five are Micron Technology, Dell, Marvell Technology, Intel and Advanced Micro Devices. As things stand, 5 would drop out at the next swap. The next swap is on Monday 30 November.",
+   "graphic": {
+    "type": "picks",
+    "lead": "This month's holdings",
+    "items": [
+     {
+      "t": "MU"
+     },
+     {
+      "t": "DELL"
+     },
+     {
+      "t": "MRVL"
+     },
+     {
+      "t": "INTC"
+     },
+     {
+      "t": "AMD"
+     }
+    ],
+    "note": "Next swap: Mon 30 Nov"
+   },
+   "start": 65.35,
+   "end": 79.575
+  },
+  {
+   "id": "crypto",
+   "title": "Crypto top 5",
+   "tag": "CRYPTO",
+   "bar": "Experimental: high risk",
+   "text": "In crypto, our experimental top five are NEAR Protocol, Zcash, Arbitrum, Uniswap and Monero, with Bitcoin 18 per cent below its two-hundred-day average.",
+   "graphic": {
+    "type": "picks",
+    "lead": "Experimental crypto holdings",
+    "items": [
+     {
+      "t": "NEAR"
+     },
+     {
+      "t": "ZEC"
+     },
+     {
+      "t": "ARB"
+     },
+     {
+      "t": "UNI"
+     },
+     {
+      "t": "XMR"
+     }
+    ],
+    "note": "High risk: you could lose all the money you put in."
+   },
+   "start": 80.025,
+   "end": 91.275
+  },
+  {
+   "id": "outlook",
+   "title": "Next week",
+   "tag": "OUTLOOK",
+   "bar": "The week ahead: 23-27 November",
+   "text": "Looking ahead to the week of Monday 23 November. It's a quieter week for big-company results. And on the prediction market Polymarket, the question \"Will Bitcoin reach $62,500 in November?\" is trading at about 52 per cent yes. ",
+   "graphic": {
+    "type": "outlook",
+    "rows": [
+     {
+      "k": "Odds",
+      "v": "Will Bitcoin reach $62,500 in November? 52% yes"
+     },
+     {
+      "k": "Swap",
+      "v": "Momentum swap: Mon 30 Nov"
+     }
+    ]
+   },
+   "start": 91.725,
+   "end": 107.35
+  },
+  {
+   "id": "outro",
+   "title": "That's the week",
+   "tag": "WEEKLY",
+   "bar": "Not financial advice",
+   "text": "That's your round-up. Remember, this is research, not financial advice. I'm Nova. See you next Sunday.",
+   "graphic": {
+    "type": "outro",
+    "big": "See you Sunday",
+    "sub": "Ventryx Weekly · not financial advice"
+   },
+   "start": 107.8,
+   "end": 114.05
+  }
+ ]
+}
